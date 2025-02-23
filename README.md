@@ -31,7 +31,7 @@ A simple and efficient command-line tool to download MP3 audio files from YouTub
    
 2. Make sure you have `ffmpeg` installed and accessible in your system's PATH.
 
-3. Download and install `yt-dlp` and `colorama`:
+3. Download and install `yt-dlp` , `colorama` , `pyfiglet` and `tqdm` :
 
    ```bash
    pip install yt-dlp colorama tqdm pyfiglet
